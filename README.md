@@ -35,10 +35,5 @@ Then We detect the face using Haar Cascade classifier after detecting frontial f
   diksha  
   - [Github](https://github.com/diksha0799) 
   - [linkedin](https://www.linkedin.com/in/diksha-ab16b6165/)
-## Resources 
-- https://github.com/udacity/P1_Facial_Keypoints
-- https://blog.openmined.org
-- https://arxiv.org/pdf/1710.00977.pdf
 
-## Citation
-- Udacity Computer Vision Nanodegree
+
